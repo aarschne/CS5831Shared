@@ -92,6 +92,7 @@ conda activate CS5831FinalClassification
 
 ---
 
-## Author
+## Authors
 
 Aaron Schneberger
+Noelle Haviland
