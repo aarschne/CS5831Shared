@@ -27,6 +27,7 @@ dependencies:
 
   # plotting
   - matplotlib
+  - seaborn
 
   # pip (needed for TabNet)
   - pip
